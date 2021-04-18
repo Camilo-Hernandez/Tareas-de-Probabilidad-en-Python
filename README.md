@@ -1,1 +1,1 @@
-# Tareas-de-Probabilidad-en-Python
+Probabilidad básica en Python
